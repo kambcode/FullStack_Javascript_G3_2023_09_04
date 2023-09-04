@@ -9,7 +9,7 @@ Antes de empezar puedes configurar tu setup inicial de forma muy sencilla para p
 
 **IMPORTANTE:** La url que debes clonar es: https://github.com/kambcode/FullStack_Javascript_G3_2023_09_04
 
-![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/e1ae4282-8cee-403b-9f66-7fb9af62241d)
+![clone](https://github.com/kambcode/FullStack_Javascript_G3_2023_09_04/assets/137812574/b49be206-5c67-40e8-a567-bdd957c549eb)
 ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/ca0ce2ad-72ec-431d-b3e1-55b84c64ec13)
 
 Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambios de la clase debes hacer un `pull` del repositorio remoto siguiendo estos sencillos pasos
