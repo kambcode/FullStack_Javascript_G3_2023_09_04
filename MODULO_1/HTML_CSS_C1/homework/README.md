@@ -7,3 +7,10 @@
 2. Vamos a crear nuestra propia hoja de vida, utilizando únicamente HTML y las etiquetas vistas en clase (img, h1, h2, p, ul). Para ello te sugerimos la siguinete estructura:
 
 ![homework](./resources/Homework1.png)
+
+# Grupos de trabajo
+
+- Maicol Amaya - Robin Villamizar - Study Room 3
+- Jonathan Suaréz - Jhon Velasco -  Study Room 2
+- Claudia Diaz - Elizabeth Perez  - Study Room 1
+- Juan Cubillos - Edison Suarez - Study Room 4
