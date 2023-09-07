@@ -19,3 +19,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 # Grabaciones de clase
 
 - 04/09/2023 Introduccion a HTML https://youtu.be/frJanvACw_8
+- 06/09/2023 Tablas en HTML Parte 1 https://youtu.be/ye1uZdef8NA
+- 06/09/2023 Tablas en HTML Parte 2 https://youtu.be/hnok6hDS6qM
