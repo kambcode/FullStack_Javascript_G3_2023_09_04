@@ -16,7 +16,7 @@ En la generación de estilos hay infinitas maneras de llegar a un mismo resultad
    - El botón e inputs deben tener un ancho  `width` de 350px `width: 350px`.
 
    - ![tarea1](./../resources/homework_light.jpeg)
-2. Ahora intenta hacer la version dark de tu formulario de resgistro. 
+2. Ahora intenta hacer la version dark de tu formulario de registro. 
    Crea una nueva hoja de estilos para que tu formulario se vea de la siguinete forma:
 
    - El body debe tener un color de fondo `black`
