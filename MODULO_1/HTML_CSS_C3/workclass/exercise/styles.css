@@ -1,0 +1,35 @@
+.text-green {
+    color: green;
+}
+
+.background-yellow {
+    background-color: yellow;
+}
+.title-sans {
+    font-family: sans-serif;
+}
+
+.title-24 {
+    font-size: 24px;
+}
+.main-text {
+    font-size: 36px;
+    font-family: sans-serif;
+    background-color: blue;
+    color: white;
+}
+
+.border {
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+
+.button-blue {
+    font-size: 28px;
+    background-color:  #2383ef;
+    color: white;
+
+    border-width: 5px;
+    border-color: red;
+}
