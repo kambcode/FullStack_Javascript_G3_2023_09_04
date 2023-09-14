@@ -1,0 +1,76 @@
+.boxBorder {
+    border-width: 15px;
+    border-style: solid;
+    border-color: red;
+}
+
+.boxBorderDotted {
+    /* border-width: 6px;
+    border-style: dotted;
+    border-color: blue; */
+
+    /* Lo anterior se puede escribir 
+    en una sola linea */
+    border: 6px dotted blue;
+}
+
+.boxBorderRadius {
+    border: 8px solid green;
+    border-radius: 20px;
+    /* border-radius: 10%; */
+}
+
+.boxWidth {
+    background-color: aqua;
+    width: 100px;
+}
+
+.boxHeight {
+    background-color: cornflowerblue;
+    height: 80px;
+}
+
+.boxRed {
+    background-color: red;
+}
+
+.parisImage {
+    width: 150px;
+    height: 150px;
+    border: 7px dashed black;
+}
+
+.roundedImage {
+    width: 150px;
+    height: 150px;
+    border: 4px solid red;
+    /* border-radius: 100px; */
+    border-radius: 50%;
+}
+
+.boxMargin {
+    background-color: aqua;
+    margin-left: 30px;
+}
+
+.boxMarginTop {
+    background-color: aqua;
+    /* margin: 10px; */
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+
+.box1 {
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.box2 {
+    width: 130px;
+    background-color: aqua;
+    margin-left: 50px;
+    margin-top: -30px;
+}

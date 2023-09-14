@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> BOX 2</title>
+        <link 
+            rel="stylesheet"
+            href="./box_styles.css"
+        />
+    </head>
+    <body>
+        <h1>Propiedades de las cajas</h1>
+        <h3> 1. Bordes </h3>
+        <div class="boxBorder">
+            <p>Esta caja tiene un borde
+                rojo</p>
+            <p> el borde es solido (linea continua) </p>
+            <p> el borde tiene un ancho de 15px </p>
+        </div>
+
+        <div class="boxBorderDotted"> 
+            <ul>
+                <li>Esta caja tiene un boder azul</li>
+                <li>El borde es una linea punteada (dotted)</li>
+                <li> el borde tiene un ancho de 6px </li>
+            </ul>
+        </div>
+
+        <div class="boxBorderRadius"> 
+            Las cajas pueden tener border redondeados
+        </div>
+
+        <h3> 2. Las cajas pueden tener un tamaño fijo</h3>
+
+        <div class="boxWidth">
+            Esta caja tiene un ancho de 100px
+        </div>
+
+        <div class="boxHeight"> 
+            Esta caja tiene un alto de 80px 
+        </div>
+
+        <h3> 3. Puedo tener una caja dentro de otra </h3>
+        
+        <div class="boxRed">
+            Esta es mi caja principal de color rojo
+            <div class="boxWidth">
+                Esta es mi segunda caja
+            </div>
+        </div>
+
+        <h3> 4. Los titulos y las imagenes tienen varias propiedades de las cajas</h3>
+
+        <h5 class="boxBorder"> Titulo con borde </h5>
+        
+        <img class="parisImage" src="./paris.jpg" />
+        
+        <h4> Esta es una imagen con border radius</h4>
+
+        <img class="roundedImage" src="./paris.jpg"/>
+        
+        <h5> 5. las cajas tienen márgenes </h5>
+
+        <div class="boxRed">
+            Caja principal
+            <div class="boxMargin"> 
+                <b>Esta caja tiene margenes</b>
+                <p>Margen izquierda 30px</p>
+            </div>
+        </div>
+
+        <div class="boxRed">
+            Caja principal
+            <div class="boxMarginTop"> 
+                <b>Esta caja tiene margenes</b>
+                <p>Margen izquierda 30px</p>
+                <p>Margen superior 15px</p>
+                <p>Margen inferior 50px</p>
+                <p>Margen derecha 10px</p>
+            </div>
+            fin de la caja principal
+        </div>
+
+
+        <div class="box1">
+            <b>Caja 1</b>
+            <div class="box2"> 
+                Esta caja tiene margen negativa
+                margin-top: -30px;
+            </div>
+            <p>Fin de la caja principal</p>
+        </div>
+    </body>
+</html>

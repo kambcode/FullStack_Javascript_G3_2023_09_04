@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica;
+    color: green;
+}
+
+.box1 {
+    background-color: aqua;
+}
+
+.boxEmail {
+    background-color: yellow;
+}
+
+.box2 {
+    font-family: sans-serif;
+    color: crimson;
+    font-size: 19px;
+    background-color: aqua;
+}
