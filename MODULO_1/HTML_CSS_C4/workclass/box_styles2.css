@@ -1,0 +1,44 @@
+.divPadding {
+    background-color: aqua;
+
+    /* padding-left: 40px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    padding-right: 30px; */
+
+    /* yo puedo simplificar mi codigo en una 
+    sola línea. 
+    ejemplo: 
+    padding: <TOP> <RIGHT> <BOTTOM> <LEFT>; */
+
+    padding: 80px 30px 20px 40px;
+
+}
+
+.divPadding2 {
+    background-color: yellow;
+    /* padding-left: 80px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-right: 80px; */
+
+    /* Yo puedo definir las margenes 
+    en una sola linea. Ejemplo: */
+    padding: 80px;
+}
+
+.divPadding3 {
+    background-color: aquamarine;
+    /* padding: 30px 80px 30px 80px; */
+    padding: 30px 80px;
+}
+
+.divColor {
+    background-color: aqua;
+}
+
+.divImg {
+    /* border: 5px red solid; */
+    background-image: url("./paris.jpg");
+    height: 400px;
+}

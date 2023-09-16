@@ -1,0 +1,48 @@
+.textRed {
+    color: red
+}
+
+.text24 {
+    font-size: 24px;
+}
+
+/* selector de dos clases
+clase1 o clase2 */
+/* 
+ejemplo, los siguinetes estilos
+se van a aplicar a los elementos
+que tengan la clase .myLargeButton
+o que tenga la clase .myLargeDiv */
+.myLargeButton, .myLargeDiv {
+    width: 400px;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+
+/* selector AND, se aplica para los elemntos
+que tengan la clase .myLargeDiv y tambien tengan
+la clase .textRed */
+
+.myLargeDiv.textRed {
+    font-size: 10px;
+}
+
+/* pueden consultar la guia completa de selectores
+en 
+https://www.w3schools.com/cssref/css_selectors.php
+ */
+
+.magicDiv {
+    background-color: aqua;
+    width: 100px;
+    margin: 30px;
+}
+
+/* Los siguientes estilos
+se van a aplicar solamente 
+si paso el mouse por el div
+.magicDiv */
+.magicDiv:hover {
+    background-color: yellow;
+    text-decoration: underline;
+}
