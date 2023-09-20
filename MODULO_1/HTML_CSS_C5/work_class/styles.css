@@ -1,0 +1,55 @@
+.container {
+    background-color: aqua;
+    height: 100px;
+}
+
+.box {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+}
+
+.container-flex{
+    display: flex;
+}
+
+.container-flex-center {
+    display: flex;
+    /* Justify-content funciona solo 
+    si se combina con display flex */
+    justify-content: center;
+}
+
+.container-flex-gap {
+   display: flex; 
+   /* gap funciona solo 
+    si se combina con display flex */
+   gap: 20px; 
+}
+
+.container-flex-end {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+}
+
+.container-flex-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-reel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 24px;
+    color: brown;
+    font-weight: 900;
+}  

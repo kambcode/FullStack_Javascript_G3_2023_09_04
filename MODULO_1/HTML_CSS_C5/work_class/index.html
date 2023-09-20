@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flex Box</title>
+    <link href="./styles.css" rel="stylesheet"/>
+</head>
+<body>
+    <h1>Fexbox</h1>
+
+    <h4> 1. Este es un contenedor sin flexbox</h4>
+    <p> En un contenedor sin flexbox las cajas se ven una abajo de la otra</p>
+    <div class="container">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+    </div>
+
+    <h4> 2. Este es un contendor con flexbox </h4>
+    <p> Utilizando display: flex; podemos ver como el modelo de cajas se rompe
+        y ahora se ven horizontalmente
+    </p>
+    <div class="container container-flex">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+        <!-- <button>Boton</button>
+        <p> Hola </p> -->
+    </div>
+    <button>Hola</button>
+    <div class="box"> Esta caja esta afuera del contenedor de flex</div>
+
+    <h4> 3. Este contendor tien flexbox y justify-content: center</h4>
+    <div class="container container-flex-center">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+    </div>
+
+    <h4> 4. Este contendor tiene flexbox y gap:20px;</h4>
+    <p> la propiedad gap define que tanto estan separados los elementos</p>
+    <div class="container container-flex-gap">
+        <div class="box"> Caja A </div>
+        <div class="box"> Caja B </div>
+        <button> Este es un boton </button>
+    </div>
+ 
+    <h4> 5. Este contendor tiene flexbox y justify-content: end</h4>
+    <div class="container container-flex-end">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+    </div>
+
+    <h4> 6. Este contenedor tiene flexbox y justify-content: space-around</h4>
+    <div class="container container-flex-around">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+        <div class="box"> Caja 4 </div>
+    </div>
+
+    <h4> 7. Este contendor tiene flexbox y justify-content: space-between</h4>
+    <div class="container container-flex-between">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+    </div>
+
+    <h4> 8 Ejemplo practico </h4>
+
+    <div class="container container-reel">
+        <div> 
+            <div class="title">REEL</div>
+            <div> The most amazing videos from the BBC </div>
+        </div>
+        <div>
+            <button> Visit Reel -></button> 
+        </div>
+    </div>
+</body>
+</html>
