@@ -53,3 +53,10 @@
     color: brown;
     font-weight: 900;
 }  
+
+.container-flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* justify-content: center; */
+}

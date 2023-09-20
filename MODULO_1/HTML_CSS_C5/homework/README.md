@@ -18,3 +18,12 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
     - ![tarea1](./../resources/flex-homework.png)
 
 ## Trabajar en parejas:
+
+- Alejandra Taba - Maicol Amaya - Study Room 1
+- Juan Cubillos -  Robin Villamizar - Study Room 2
+- Elizabeth Perez - Freider Leandro - Study Room 3
+- Anderson Burbano - Claudia Lorena  - Study Room 4
+- Jhon Velasco - Jhonathan Suarez - Study Room 6
+- Estiven Valencia - Study Room 7
+- Edison Suarez - Study Room 8
+- Gullermo Martinez - Study Room 9
