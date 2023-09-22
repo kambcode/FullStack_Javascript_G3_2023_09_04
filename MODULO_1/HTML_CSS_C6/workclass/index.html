@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flexbox calse 2</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+    <h1> Flex box Alineacion vertical y horizontal </h1>
+    <h4> 1. la propiedad align-items posiciona el contenido en el eje vertical</h4>
+    <p> align-items: center; </p>
+    <div class="flex-container-center">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+    <p> align-items: end; </p>
+    <div class="flex-container-end">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+    
+    <h4> 2. Podemos usar las propiedades align-items items y justify-content simultaneamente</h4>
+    <p> align-items: center; posiciona el contenido verticalmente</p>
+    <p> justify-content: end; posiciona el contenido horizontalmente</p>
+    <div class="flex-container">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+
+    <h4> 3. podemos cambiar la direccion del flujo en flexbox</h4>
+    <p> la propiedad flex direction, cambia la direccion del flujo de flex</p>
+    <p> flex-direction: column; </p>
+    <div class="flex-container-column">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+
+    <h4> 4. Si flex direction es column entonces justify-content va a alienar verticamente</h4>
+    <p> flex-direction: column; * por defecto si no se especifica, la direeción siempre es row</p>
+    <p> justify-content: center; </p>
+    <div class="flex-container-column-2">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+
+    <h4> 5. Si flex direction es column entonces aling-items va a alienar horizontalmente</h4>
+    <p> flex-direction: column; </p>
+    <p> align-items: center; </p>
+    <div class="flex-container-column-3">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+
+    <h4> 5. Si uso flex direction es column puedo combinar justify-content y aling-items</h4>
+    <p> flex-direction: column; </p>
+    <p> align-items: end; </p>
+    <p> justify-content: center</p>
+    <div class="flex-container-column-4">
+        <div class="box"> Box 1</div>
+        <div class="box"> Box 2</div>
+    </div>
+</body>
+</html>
