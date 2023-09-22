@@ -26,3 +26,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 13/09/2023 CSS box model https://youtu.be/ubo3_fNMWsE
 - 15/09/2023 CSS box model y más selectores CSS https://youtu.be/YGfISvpxWR4
 - 19/09/2023 Flex box https://youtu.be/kTxn3xzye54
+- 21/09/2023 Flex box https://youtu.be/DzOMAtoY26Y
