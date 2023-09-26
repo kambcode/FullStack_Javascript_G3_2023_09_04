@@ -26,7 +26,7 @@ Aplica los estilos dados según las condiciones especificadas de manera de llega
 - Freider Leandro - Maicol Amaya - Study Room 1
 - Juan Cubillos - Study Room 2
 - Elizabeth Perez - Gullermo Martinez - Alejandra Taba - Study Room 3
-- Jhonathan Suarez - Jhon Velasco  - Claudia Lorena  - Study Room 4
+- Jhonathan Suarez - Jhon Velasco - Claudia Lorena  - Study Room 4
 - Estiven Valencia - Study Room 7
 - Edison Suarez - Study Room 8
 - Robin Villamizar - Study Room 9
