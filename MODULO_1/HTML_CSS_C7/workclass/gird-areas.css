@@ -1,0 +1,33 @@
+
+.areas-container {
+    font-size: 28px;
+    display: grid;
+    grid-template-columns: 200px auto;
+    grid-template-rows: 50px auto 100px;
+
+    grid-template-areas: 
+    " myHead myHead "
+    " myMenu myContent "
+    " myFooter myContent ";
+}
+
+.head {
+    background-color: yellow;
+    grid-area: myHead;
+}
+
+.menu {
+    background-color: aqua;
+    grid-area: myMenu;
+}
+
+.content {
+    background-color: aquamarine;
+    grid-area: myContent;
+}
+
+.footer {
+    background-color: red;
+    color: white;
+    grid-area: myFooter;
+}
