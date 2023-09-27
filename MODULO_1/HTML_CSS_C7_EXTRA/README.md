@@ -16,7 +16,7 @@ Todo el contenido interno de el layout y de cáda área se hará con Flex.
 
 - Toda la página tiene un tipo de fuente `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"`
 
-- El color amarillo de las es `#ffc600`
+- El color amarillo es `#ffc600`
 
 - Los iconos los puedes insertar como emojis en tu HTML, a continuación encontrarás algunos que te serán muy útiles
     - 🌮
