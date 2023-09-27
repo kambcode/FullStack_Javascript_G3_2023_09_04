@@ -2,8 +2,8 @@
 
 En esta clase veremos un ejercicio practico para ver en que situaciones debemos usar flexbox y cuales es mejor usar grid view.
 
-Para ello replicaremos la siguiente página web https://eneax.github.io/learn-css-grid/24-Responisve-Website/
-![areas](./resources/page-grid-vs-flex.png)    
+Para ello replicaremos la siguiente página web 
+![web_page](./resources/page-grid-vs-flex.png)    
 
 Como ejercicio práctico porponemos crear el siguiente layout usando grid view:
 ![areas](./resources/flex-vs-grid-areas.png)    
