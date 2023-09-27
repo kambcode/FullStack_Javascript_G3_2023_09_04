@@ -24,6 +24,6 @@ Todo el contenido interno de el layout y de cáda área se hará con Flex.
     - 🍷
     - 🎵
 
-- Para dar tamaño a estos emjis usa la propiedad `font-size: 50px`
+- Para dar tamaño a estos emojis usa la propiedad `font-size: 50px`
 
 - Las imágenes y recursos necesarios para realizar este ejercicio están disponibles en la carpeta "resources"
