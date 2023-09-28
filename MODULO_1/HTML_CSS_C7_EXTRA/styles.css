@@ -1,0 +1,50 @@
+body  {
+    background-color: #f93d66;
+}
+
+.banner-container {
+    display: grid;
+    grid-template-columns: 
+        auto auto auto 150px 150px;
+    grid-template-rows: 
+        150px 150px 80px;
+    gap: 10px;
+    grid-template-areas: 
+    " banner banner banner pricesA  pricesA "
+    " banner banner banner pricesB  pricesB "
+    " tacos  beers  wines  desserts reservations ";
+}
+.banner {
+    grid-area: banner;
+}
+.prices {
+    grid-area: prices;
+}
+.pricesA {
+    grid-area: pricesA;
+    background-color: #ffc600;
+}
+.pricesB {
+    grid-area: pricesB;
+    background-color: #ffc600;
+}
+.tacos {
+    grid-area: tacos;
+    background-color: #ffc600;
+}
+.beers {
+    grid-area: beers;
+    background-color: #ffc600;
+}
+.wines {
+    grid-area: wines;
+    background-color: #ffc600;
+}
+.desserts {
+    grid-area: desserts;
+    background-color: #ffc600;
+}
+.reservations {
+    grid-area: reservations;
+    background-color: #ffc600;
+}
