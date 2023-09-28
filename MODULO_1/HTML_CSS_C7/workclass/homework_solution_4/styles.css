@@ -1,0 +1,57 @@
+.container {
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    grid-template-rows: 100px 250px;
+    gap: 10px;
+    grid-template-areas: 
+    " boxA boxA .    boxB "
+    " boxC boxD boxD boxD ";
+}
+
+.box {
+    background-color: grey;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.boxA {
+    grid-area: boxA;
+}
+.boxB {
+    grid-area: boxB;
+}
+.boxC {
+    grid-area: boxC;
+}
+.boxD {
+    grid-area: boxD;
+    margin: 30px;
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 0.4fr 0.2fr 0.4fr;
+    grid-template-rows: 0.5fr 0.5fr ;
+    grid-template-areas: 
+        " boxE boxF boxF "
+        " boxE .    boxG "
+    ;
+
+}
+
+.boxSecondary {
+    background-color: #c4c5c6;
+    color: black;
+    padding: 5px;
+}
+
+.boxE {
+    grid-area: boxE;
+}
+.boxF {
+    grid-area: boxF;
+}
+.boxG {
+    grid-area: boxG;
+}
