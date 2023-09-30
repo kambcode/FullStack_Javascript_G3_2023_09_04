@@ -1,0 +1,42 @@
+.grid-container {
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: 30px auto 300px 60px;
+    grid-template-rows: 400px auto;
+    grid-template-areas: 
+    ". image   prices  . "
+    ". content content . ";
+}
+.main-image {
+    grid-area: image;
+    background-image: url('./resources/taco.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+.prices {
+    grid-area: prices;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.box-prices {
+    background-color: yellow;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+   grid-area: content;
+   background-color: aqua;
+}
+.title {
+    background-color: yellow;
+}    
+.yellow-cards {
+    display: flex;
+    justify-content: space-around;
+}

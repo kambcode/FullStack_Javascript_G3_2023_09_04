@@ -14,3 +14,13 @@ Para ello replicaremos la siguiente página
 - Te proponemos crear el siguiente layout usando grid view:
 
 ![areas](https://i.imgur.com/rnVbAjq.png) 
+
+## Trabajar en grupos:
+
+- Freider Leandro - Maicol Amaya - Study Room 1
+- Juan Cubillos - Study Room 2
+- Elizabeth Perez - Gullermo Martinez - Claudia Lorena  - Study Room 3
+- Jhonathan Suarez - Jhon Velasco  - Study Room 4
+- Estiven Valencia - Study Room 7
+- Edison Suarez - Study Room 8
+- Robin Villamizar - Study Room 9
