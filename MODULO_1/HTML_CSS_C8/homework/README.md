@@ -29,8 +29,9 @@ A continuación encontrarás las URL de las imágenes que vas a necesitar para d
 - Imagen de background: https://www.kambcodelatam.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fc1phkeakdkp0%2F3I9hyo1ifgCGz7amYDKs0E%2F98090777fa719f047b35d57ff8e39342%2FManPortrait.png&w=1920&q=75
 
 Si quieres que la imagen de background se vea con una capa de color azul igual a como está el diseño, entonces, agregar el siguiente estilo 
-`background-image: linear-gradient(270deg, rgba(6, 48, 184, 0.50) 0%, rgba(217, 217, 217, 0.00) 100%), url("<URL_DE_LA_IMAGEN>");`. Investiga sobre gradientes en CSS3 para entender cómo funciona esto https://www.w3schools.com/css/css3_gradients.asp
+`background-image: linear-gradient(90deg, rgba(255, 255, 255),  rgba(6, 48, 184, 0.50)), url("<URL_DE_LA_IMAGEN>");`. Investiga sobre gradientes en CSS3 para entender cómo funciona esto https://www.w3schools.com/css/css3_gradients.asp
 
+En mobile el estilo del background será: `background-image: linear-gradient(90deg, rgba(255, 255, 255, 0),  rgba(6, 48, 184, 0.50)), url("<URL_DE_LA_IMAGEN>");`
 
 
 ## Trabajar en parejas:
