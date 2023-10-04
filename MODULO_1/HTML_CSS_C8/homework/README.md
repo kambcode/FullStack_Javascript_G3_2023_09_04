@@ -35,3 +35,11 @@ En mobile el estilo del background será: `background-image: linear-gradient(90d
 
 
 ## Trabajar en parejas:
+
+- Freider Leandro - Maicol Amaya - Study Room 1
+- Juan Cubillos - Study Room 2
+- Elizabeth Perez - Guillermo Martinez - Claudia Lorena  - Study Room 3
+- Jhonathan Suarez - Jhon Velasco - Alejandra Taba - Study Room 4
+- Estiven Valencia - Study Room 7
+- Edison Suarez - Study Room 8
+- Robin Villamizar - Study Room 9
