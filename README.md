@@ -30,3 +30,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 25/09/2023 Grid Layout https://youtu.be/UifjnyOCP_A
 - 27/09/2023 Ejercicio práctico GRID vs FLEX https://youtu.be/4bTS43iuS-I
 - 29/09/2023 Ejercicio práctico GRID vs FLEX continuación https://youtu.be/FNzMXRd9YLc
+- 03/10/2023 Media Queries https://youtu.be/AytLcM1qyi8
