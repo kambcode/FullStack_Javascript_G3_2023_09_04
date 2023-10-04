@@ -1,0 +1,20 @@
+.menu {
+    background-color: black;
+    display: flex;
+    gap: 15px;
+}
+.link {
+    font-size: 36px;
+    color: white;
+    padding: 8px;
+}
+
+.link:hover {
+    background-color: gray;
+}
+/* 
+EL RETO ES USAR UNA MEDIA QUERY 
+PARA HACER QUE EN UNA PANTALLA
+DE MAXIMO 1200px EL MENU CAMBIE  */
+
+/* TODO: Inlcuir la media query acá: */

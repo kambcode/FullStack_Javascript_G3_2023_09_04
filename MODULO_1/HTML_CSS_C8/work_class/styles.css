@@ -1,0 +1,76 @@
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+
+@media (max-width: 800px) {
+/* CELULAR: Cuando la pantalla tenga maximo 800px
+estos estilos se van a aplicar */
+    .square {
+        background-color: blueviolet;
+    } 
+}
+
+@media (min-width: 800px) and (max-width: 1200px) {
+/* TABLET: Cuando la pantalla tenga minimo 800px de ancho
+y máximo 1200px de ancho 
+estos estilos se van a aplicar */ 
+    .square {
+        background-color: yellow;
+    }
+}
+
+
+.card {
+    width: 350px;
+    border: 1px solid gray;
+}
+.card-title {
+    color: brown;
+    font-size: 38px;
+}
+.card-content {
+    font-size: 28px;
+}
+
+img {
+    width: 200px;
+}
+
+.red-square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+}
+
+@media (max-width: 1200px) {
+/* Estos estilos aplican para una pantalla de 
+CELULAR Y UNA TABLET
+
+Es decir esto aplica para pantallas entre 0px y 1200px
+*/
+    .card{
+        width: 200px;
+    }
+
+    .card-title {
+        font-size: 24px;
+    }
+
+    .card-content {
+        font-size: 16px;
+    } 
+
+    img {
+        display: none;
+    }
+
+    .red-square {
+        /* En este caso block es el valor por defecto de la propiedad display */
+        display: block; 
+    }
+}
+
+
