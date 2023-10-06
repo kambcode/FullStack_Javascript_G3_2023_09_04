@@ -1,0 +1,69 @@
+/* Mobile first
+estos estilos son para mobile */
+.card {
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.card-title {
+    color: brown;
+    font-size: 32px;
+}
+
+.card p {
+    font-size: 16px;
+}
+
+/* @media (max-width: 900px) */
+@media (min-width: 900px) {
+    /* Los estilos dentro de 
+    la media query deben aplicar
+    para pantallas grandes */
+    .card {
+        width: 850px;
+    }
+
+    .card-title {
+        font-size: 38px;
+    }
+
+    .card p {
+        font-size: 24px;
+    }
+}
+
+.square {
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+
+@media print {
+    /* los estilos de la media query
+    solo aplican si estamos en 
+    la vista de impresion */
+    .square {
+        font-size: 40px;
+        color: blue;
+    }
+}
+
+.orientation-square {
+    padding: 10px;
+    background-color: red;
+    font-size: 28px;
+    color: white;
+    font-weight: 900;
+}
+
+
+/* @media (min-width: 900px) { */ 
+/* @media (max-width: 1000px) and (orientation: landscape) { */
+@media (orientation: landscape) {
+    .orientation-square{
+        background-color: blue;
+    }
+}
