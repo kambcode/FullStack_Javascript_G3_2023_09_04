@@ -23,4 +23,8 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
   Cómo segundo punto de la tarea por favor lee la [guia de instalacion de NODE JS](../../GUIA-INSTALACIÓN-NODE_JS/README.md) en donde te explicaremos a fondo para que se usa y cuales son sus ventajas, al final de la guia deberas instalar en tu computador NODE JS y un manejador de paquetes llamado NPM, una vez tengamos estas dos herramientas podremos ejecutar javascript sin necesidad de un navegador web.
 
-  
+
+# Trabajar en parejas
+  - Guillermo Martinez - Alejandra Taba (Study Room 1)
+  - Jonathan Suarez - Robin Villamizar (Study Room 1)
+  - Claudia Diaz - Elizabeth Perez (Study Room 1)
