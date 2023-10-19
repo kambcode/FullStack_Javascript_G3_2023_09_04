@@ -26,5 +26,5 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 # Trabajar en parejas
   - Guillermo Martinez - Alejandra Taba (Study Room 1)
-  - Jonathan Suarez - Robin Villamizar (Study Room 1)
-  - Claudia Diaz - Elizabeth Perez (Study Room 1)
+  - Jonathan Suarez - Robin Villamizar (Study Room 2)
+  - Claudia Diaz - Elizabeth Perez (Study Room 3)
