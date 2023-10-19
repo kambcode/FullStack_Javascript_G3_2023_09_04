@@ -21,6 +21,6 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 - Javascript no solo se puede ejecutar en el navegador web, tambien se puede ejecutar en el servidor para ejecutar tareas de procesamiento de datos más relacionadas con el backend. Para ello se utiliza NODE JS que es un entorno de ejecución de Javascript y que nos permite ejecutar javascript en un servdor y puntualmente en nuestro computador sin necesidad de usar el navegador. 
 
-  Cómo segundo punto de la tarea por favor lee la [guia de instalacion de NODE JS](../../GUIA-INSTACIÓN-NODE_JS/README.md) en donde te explicaremos a fondo para que se usa y cuales son sus ventajas, al final de la guia deberas instalar en tu computador NODE JS y un manejador de paquetes llamado NPM, una vez tengamos estas dos herramientas podremos ejecutar javascript sin necesidad de un navegador web.
+  Cómo segundo punto de la tarea por favor lee la [guia de instalacion de NODE JS](../../GUIA-INSTALACIÓN-NODE_JS/README.md) en donde te explicaremos a fondo para que se usa y cuales son sus ventajas, al final de la guia deberas instalar en tu computador NODE JS y un manejador de paquetes llamado NPM, una vez tengamos estas dos herramientas podremos ejecutar javascript sin necesidad de un navegador web.
 
   
