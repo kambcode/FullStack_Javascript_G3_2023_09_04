@@ -43,8 +43,7 @@ document.write(articulosDisponibles);
 // con el usuario
 
 // alert("Esta es una alerta generada por JS")
-var edad;
-edad = prompt("Escribe tu edad");
+var edad = prompt("Escribe tu edad");
 
 document.write("<br><br> Edad: ");
 document.write(edad)
