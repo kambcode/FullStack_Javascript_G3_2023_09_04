@@ -17,7 +17,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/8d8f7da6-aa4c-4d67-9dec-59cd360bda0f)
 
 # Grabaciones de clase
-
+## Modulo 1
 - 04/09/2023 Introduccion a HTML https://youtu.be/frJanvACw_8
 - 06/09/2023 Tablas en HTML Parte 1 https://youtu.be/ye1uZdef8NA
 - 06/09/2023 Tablas en HTML Parte 2 https://youtu.be/hnok6hDS6qM
@@ -32,3 +32,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 29/09/2023 Ejercicio práctico GRID vs FLEX continuación https://youtu.be/FNzMXRd9YLc
 - 03/10/2023 Media Queries https://youtu.be/AytLcM1qyi8
 - 05/10/2023 Media queries parte 2 y Proyecto final https://youtu.be/wGyjQwI-R9Y
+## Modulo 2
+- 18/10/2023 Variables y tipos de datos en Javascript (JS) https://youtu.be/paKrvUpXgu8
