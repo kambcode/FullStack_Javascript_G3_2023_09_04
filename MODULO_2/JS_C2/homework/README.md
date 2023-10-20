@@ -8,7 +8,7 @@ Como tarea te proponemos crear algunos programas usando variables, operadores lo
 
 1. Escribe un programa que almacene la cadena de caracteres contraseña en una variable (utiliza una constante que no será visible para el usuario final). Tu programa debe preguntar por medio de un ´propmt´ al usuario por la contraseña e imprima por pantalla  el mensaje "Inicio de sesion exitoso" solo si la contraseña introducida por el usuario coincide con la guardada en la variable.
 
-2. Escribir un programa que pida al usuario dos números y muestre por pantalla su división. Si el divisor es cero el programa debe mostrar un error, ejemplo "Error: el divisor no pueede ser cero".
+2. Escribir un programa que pida al usuario dos números y muestre por pantalla su división. Si el divisor es cero el programa debe mostrar un error, ejemplo "Error: el divisor no puede ser cero".
 
 3. Para tributar un determinado impuesto se debe ser mayor de 16 años y tener unos ingresos iguales o superiores a 1000 € mensuales. Escribir un programa que pregunte al usuario su edad y sus ingresos mensuales y muestre por pantalla si el usuario tiene que tributar o no.
 
