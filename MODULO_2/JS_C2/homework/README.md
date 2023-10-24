@@ -15,3 +15,8 @@ Como tarea te proponemos crear algunos programas usando variables, operadores lo
 4. Escribe un programa para una empresa que tiene salas de juegos para todas las edades y quiere calcular de forma automática el precio que debe cobrar a sus clientes por entrar. El programa debe preguntar al usuario la edad del cliente y mostrar el precio de la entrada. Si el cliente es menor de 4 años puede entrar gratis, si tiene entre 4 y 18 años debe pagar 5€ y si es mayor de 18 años, 10€.
 
 
+# Trabajar en parejas
+  - Guillermo Martinez - Alejandra Taba (Study Room 1)
+  - Jonathan Suarez - Robin Villamizar (Study Room 2)
+  - Claudia Diaz - Elizabeth Perez (Study Room 3)
+  - Edison Suarez (Study Room 4)
