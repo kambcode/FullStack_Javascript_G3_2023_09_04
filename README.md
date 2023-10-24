@@ -34,4 +34,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 05/10/2023 Media queries parte 2 y Proyecto final https://youtu.be/wGyjQwI-R9Y
 ## Modulo 2
 - 18/10/2023 Variables y tipos de datos en Javascript (JS) https://youtu.be/paKrvUpXgu8
-- 20/20/2023 variables Vs Constantes y operadores de comparación https://youtu.be/mIUNEJxgYq8
+- 20/10/2023 variables Vs Constantes y operadores de comparación https://youtu.be/mIUNEJxgYq8
+- 23/10/2023 Condicionales IF / Else https://youtu.be/9zN0LjiTaH0
