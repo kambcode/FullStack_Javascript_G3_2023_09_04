@@ -36,3 +36,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 18/10/2023 Variables y tipos de datos en Javascript (JS) https://youtu.be/paKrvUpXgu8
 - 20/10/2023 variables Vs Constantes y operadores de comparación https://youtu.be/mIUNEJxgYq8
 - 23/10/2023 Condicionales IF / Else https://youtu.be/9zN0LjiTaH0
+- 25/10/2023 Switch Case y if / else if /else https://youtu.be/RA1D7Cn5fRM
