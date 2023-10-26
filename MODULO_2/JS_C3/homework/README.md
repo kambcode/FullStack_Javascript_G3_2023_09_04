@@ -11,7 +11,7 @@ Como tarea te proponemos crear algunos programas usando variables, operadores lo
 2. Utilizando el patron **if -> else if -> else**, crea un programa que solicite a el usuario entra la longitud de la base y el alto de un cuadrado. Si la base y el alto son idénticos la respuesta será "Es un cuadrado", si la base es mayor que el alto dira "Rectángulo horizontal" y en caso contrario dirá "Rectángulo vertical". Ejemplo: Si entro base es 10, alto es 5. Resultado rectángulo
 
 
-3. Ahora vamos a crea tu propia calculadora utilizando **switch case**. Escribe un programa que solicite a el usuario ingresar dos numeros `numberA` y `numberB` y además que se solicite ingresar la operación que desea ejecutar (`suma`, `resta`, `multiplicacion` o `division`). tu programa debe mostrar en pantalla los dos numeros que el usuario seleccionó y el resultado de la operación entre dos numeros
+3. Ahora vamos a crea tu propia calculadora utilizando **switch case**  y/o **if else if**. Escribe un programa que solicite a el usuario ingresar dos numeros `numberA` y `numberB` y además que se solicite ingresar la operación que desea ejecutar (`suma`, `resta`, `multiplicacion` o `division`). tu programa debe mostrar en pantalla los dos numeros que el usuario seleccionó y el resultado de la operación entre dos numeros
 
 
 # Trabajar en parejas
