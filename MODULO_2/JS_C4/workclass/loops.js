@@ -10,5 +10,5 @@ console.log('FIN')
 
 
 // // IMPORTANTE
-// numero++; // numero = numero + 1;
+// numero++; // numero = numero +1;
 // numero--; // numero = numero - 1;
