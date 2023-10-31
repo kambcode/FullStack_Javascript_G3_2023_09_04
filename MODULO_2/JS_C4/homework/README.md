@@ -6,7 +6,7 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 Como tarea te proponemos crear algunos programas usando bucles (for / while):
 
-1. Dada una constante con la edad de un usuario, escribie un programa que  muestre por pantalla todos los años que ha cumplido (desde 1 hasta su edad).
+1. Dada una variable con la edad de un usuario, escribie un programa que  muestre por pantalla todos los años que ha cumplido (desde 1 hasta su edad).
 2. Escribir un programa que pregunte al usuario una cantidad a invertir y el número de años, y muestre por pantalla el capital obtenido en la inversión cada año que dura la inversión. 
 3. Escribir un programa que muestre por pantalla las tablas de multiplicar del 1 al 10.
 
