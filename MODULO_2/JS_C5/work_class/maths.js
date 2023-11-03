@@ -30,6 +30,6 @@ console.log('Este es un numero aleatorio entre 0 y 10', randomNumber10Rounded);
 const min = Math.min(2,4,6,1,5,6);
 console.log("El minimo entre 2,4,6,1,5,6 es", min)
 
-// 7. Calcular el minimo de dos o más numero
+// 7. Calcular el maximo de dos o más numero
 const max = Math.max(2,4,6,1,5,6);
 console.log("El maximo entre 2,4,6,1,5,6 es", max)

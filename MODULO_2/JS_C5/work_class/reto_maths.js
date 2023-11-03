@@ -6,4 +6,4 @@
 // 2. Obtener el numero más grande de los dos obtenidos
 //     anteriormente (number1 y number2)
 // 3. Adicional: Imprimir la raiz cuadrada de el 
-//  numero mas grande entre number1 y number2
+//  numero mas grande entre number1 y number2ç
