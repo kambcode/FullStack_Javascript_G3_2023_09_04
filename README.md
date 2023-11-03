@@ -39,3 +39,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 25/10/2023 Switch Case y if / else if /else https://youtu.be/RA1D7Cn5fRM
 - 27/10/2023 NodeJs, Introducción a backend y frontend https://youtu.be/8R65HPyb1Ck
 - 30/10/2023 let, while, for https://youtu.be/h_KHh5f757I
+- 02/11/2023 Math y arrays https://youtu.be/Ks7OuBPC_8E
