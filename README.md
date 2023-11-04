@@ -40,4 +40,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 27/10/2023 NodeJs, Introducción a backend y frontend https://youtu.be/8R65HPyb1Ck
 - 30/10/2023 let, while, for https://youtu.be/h_KHh5f757I
 - 02/11/2023 Math y arrays https://youtu.be/Ks7OuBPC_8E
-- 03/11/2023 arrays y for anidados 
+- 03/11/2023 arrays y for anidados  https://youtu.be/WFg2GUGiH4c
