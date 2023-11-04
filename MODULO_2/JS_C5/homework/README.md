@@ -8,7 +8,7 @@ Como tarea te proponemos crear algunos programas usando todo lo visto hasta ahor
 
 1. Crea un array `myArray` de 50 números, que contendrá 50 numeros números aleatorios entre 1 y 10. 
 
-2. Escribir un programa usando HTML, Javascript y la función promt que pregunte a el usuario una lista de tareas y las vaya almacenando cada una de estas tareas en un array. Si en algun momento la tarea que el usuario ingreso ya fue ingresada anteriormente (es decir ya pertence a el array) esta tarea NO debe añadirse a el array y en su defecto mostrar un mensaje que diga "Error: Esta tarea ya esta en la lista".
+2. Escribir un programa usando HTML, Javascript y la función promt que pregunte a el usuario una lista de compras y las vaya almacenando cada una de estos elementos en un array. Si en algun momento la tarea que el usuario ingreso ya fue ingresada anteriormente (es decir ya pertence a el array) elemento NO debe añadirse a el array y en su defecto mostrar un mensaje que diga "Error: Esta elementos ya esta en la lista de compras".
 
 **NOTA** recuerda que para saber si un elemento ya esta en el array puedes usar la función indexOf eg: `myArray.includes(<ELEMENTO_QUE_QUIERES_BUSCAR_EN_EL_ARRAY>)`
 
