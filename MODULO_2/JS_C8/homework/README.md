@@ -16,7 +16,7 @@ Prácticas como la siguiente **NO SON PERMIIDAS**
 <input type="button" id="number1" value="1" onclick="document.calculator.ans.value+='1'">
 ```
 
-Para ello debes usar un selector e incluir la lógica en el archivo de javascript. Recuerda, el HTML debe esatr lo más limpio posible. Una práctica sería la siguiente:
+Para ello debes usar un selector e incluir la lógica en el archivo de javascript. Recuerda, el HTML debe estar lo más limpio posible. Una práctica sería la siguiente:
 
 ```html
 <input type="button" onClick="sumar(1)">
