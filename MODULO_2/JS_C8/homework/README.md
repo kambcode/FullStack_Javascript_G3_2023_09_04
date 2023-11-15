@@ -10,7 +10,7 @@ Para esta tarea y como proyecto final de el modulo te proponemos crear una calcu
 2. El diseño es totalmente libre. Pero a continuación encontrarás un demo de cómo debe funcionar tu calculadora. [demo_calculadora.webm](./../resources/calculator_demo.webm)
 3. Todo el codigo de javascript debe estar incluido en un archivo de JS. 
 
-Prácticas como la siguiente **NO SON PERMIIDAS**
+Prácticas como la siguiente **NO SON PERMITIDAS**
 
 ```html
 <input type="button" id="number1" value="1" onclick="document.calculator.ans.value+='1'">
