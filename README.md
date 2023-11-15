@@ -43,3 +43,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 03/11/2023 arrays y for anidados  https://youtu.be/WFg2GUGiH4c
 - 08/11/2023 Funciones https://youtu.be/W_sBSevc1Xs
 - 10/11/2023 Objetos https://youtu.be/buINmdX6QAs
+- 14/11/2023 Modificando el DOM con javascript https://youtu.be/WXiwFe0Ugxk 
