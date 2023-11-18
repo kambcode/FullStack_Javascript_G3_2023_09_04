@@ -1,0 +1,23 @@
+.screen {
+    border: 3px solid gray;
+    background-color: green;
+    font-size: 30px;
+    height: 35px;
+    color: black;
+    width: 300px;
+}
+
+.button {
+    width: 90px;
+    height: 90px;
+    font-size: 25px;
+    border: 2px solid gray;
+    background-color: grey;
+    margin: 3px;
+}
+
+.buttons-container {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
