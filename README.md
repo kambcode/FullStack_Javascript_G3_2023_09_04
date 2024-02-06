@@ -17,7 +17,9 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/8d8f7da6-aa4c-4d67-9dec-59cd360bda0f)
 
 # Grabaciones de clase
+
 ## Modulo 1
+
 - 04/09/2023 Introduccion a HTML https://youtu.be/frJanvACw_8
 - 06/09/2023 Tablas en HTML Parte 1 https://youtu.be/ye1uZdef8NA
 - 06/09/2023 Tablas en HTML Parte 2 https://youtu.be/hnok6hDS6qM
@@ -32,7 +34,9 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 29/09/2023 Ejercicio práctico GRID vs FLEX continuación https://youtu.be/FNzMXRd9YLc
 - 03/10/2023 Media Queries https://youtu.be/AytLcM1qyi8
 - 05/10/2023 Media queries parte 2 y Proyecto final https://youtu.be/wGyjQwI-R9Y
+
 ## Modulo 2
+
 - 18/10/2023 Variables y tipos de datos en Javascript (JS) https://youtu.be/paKrvUpXgu8
 - 20/10/2023 variables Vs Constantes y operadores de comparación https://youtu.be/mIUNEJxgYq8
 - 23/10/2023 Condicionales IF / Else https://youtu.be/9zN0LjiTaH0
@@ -40,8 +44,12 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 27/10/2023 NodeJs, Introducción a backend y frontend https://youtu.be/8R65HPyb1Ck
 - 30/10/2023 let, while, for https://youtu.be/h_KHh5f757I
 - 02/11/2023 Math y arrays https://youtu.be/Ks7OuBPC_8E
-- 03/11/2023 arrays y for anidados  https://youtu.be/WFg2GUGiH4c
+- 03/11/2023 arrays y for anidados https://youtu.be/WFg2GUGiH4c
 - 08/11/2023 Funciones https://youtu.be/W_sBSevc1Xs
 - 10/11/2023 Objetos https://youtu.be/buINmdX6QAs
-- 14/11/2023 Modificando el DOM con javascript https://youtu.be/WXiwFe0Ugxk 
+- 14/11/2023 Modificando el DOM con javascript https://youtu.be/WXiwFe0Ugxk
 - 17/11/2023 Proyecto final https://youtu.be/CyQ_zBwRHb8
+
+## Modulo 4
+
+- 05/02/2024 Repaso js https://youtu.be/-2QJYY6ac84
