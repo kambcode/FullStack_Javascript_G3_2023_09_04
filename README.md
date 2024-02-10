@@ -53,3 +53,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Modulo 4
 
 - 05/02/2024 Repaso js https://youtu.be/-2QJYY6ac84
+- 07/02/2024 Node js https://youtu.be/2CxMYDdHNKA
+- 09/02/2024 Stream js https://youtu.be/LlX0ksTg444
