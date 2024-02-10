@@ -8,12 +8,6 @@
 
 import fs from "fs";
 
-export function readFile(filePath) {
-  const data = fs.readFileSync(filePath, "utf-8");
-
-  return data;
-}
-
 export function createReadFileStream(filePath) {
   const fileStream = fs.createReadStream(filePath, {
     encoding: "utf-8",
@@ -33,11 +27,7 @@ export function createReadFileStream(filePath) {
   return data;
 }
 
-// const data = readFile("../common/pokemons_x_departments.json");
-
-// console.log("data: ", data);
-
-export function writeFile(filePath, data) {
+export function createWriteFileStream(filePath, data) {
   const fileStream = fs.createWriteStream(filePath);
 
   fileStream.write(data, "utf-8");
