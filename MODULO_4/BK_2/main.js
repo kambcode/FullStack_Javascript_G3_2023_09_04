@@ -1,5 +1,6 @@
 import { hello } from "./index.js";
 
+console.log("hello");
 console.log(hello);
 
 // without es6

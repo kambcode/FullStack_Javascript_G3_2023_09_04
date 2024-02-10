@@ -1,17 +1,17 @@
 {
-  "name": "clase_2",
+  "name": "bk_3",
   "version": "1.0.0",
-  "description": "this is my first project using node js",
+  "description": "",
   "type": "module",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon main.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.7",
-    "nodemon": "^3.0.3"
+    "axios": "^1.6.7"
   }
 }
