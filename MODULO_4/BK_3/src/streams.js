@@ -8,33 +8,43 @@
 
 import fs from "fs";
 
-export function createReadFileStream(filePath) {
-  const fileStream = fs.createReadStream(filePath, {
+function main() {
+  const writableStream = fs.createWriteStream("../common/streamFile.txt", {
     encoding: "utf-8",
-    highWaterMark: 1024,
   });
 
-  let data = "";
+  const data = "Hello world";
 
-  fileStream.on("data", (chunk) => {
-    data += chunk;
+  writableStream.write(data);
+
+  writableStream.end();
+
+  const readableStream = fs.createReadStream("../common/streamFile.txt", {
+    encoding: "utf-8",
   });
 
-  fileStream.on("end", () => {
-    console.log("task Completed");
+  const writableStream2 = fs.createWriteStream(
+    "../common/anotherStreamFile.txt",
+    {
+      encoding: "utf-8",
+    }
+  );
+
+  readableStream.on("data", (chunk) => {
+    writableStream2.write(chunk);
   });
 
-  return data;
+  readableStream.on("end", (chunk) => {
+    writableStream2.end();
+  });
+
+  readableStream.on("error", (err) => {
+    console.log("este error viene de lectura: ", err);
+  });
+
+  writableStream2.on("error", (err) => {
+    console.log("este es el error:", err);
+  });
 }
 
-export function createWriteFileStream(filePath, data) {
-  const fileStream = fs.createWriteStream(filePath);
-
-  fileStream.write(data, "utf-8");
-
-  fileStream.end();
-
-  fileStream.on("finish", () => {
-    console.log("file was created successfully");
-  });
-}
+main();
