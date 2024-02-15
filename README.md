@@ -56,3 +56,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 07/02/2024 Node js https://youtu.be/2CxMYDdHNKA
 - 09/02/2024 Stream js https://youtu.be/LlX0ksTg444
 - 12/02/2024 Stream js https://youtu.be/XrkAB-Giflk
+- 14/02/2024 HTTP js https://youtu.be/YjSwDqcDzfk
