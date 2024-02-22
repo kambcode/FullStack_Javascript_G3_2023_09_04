@@ -18,11 +18,11 @@ const server = http.createServer((req, res) => {
   const headers = { "content-type": "text/html" };
 
   switch (req.url) {
-    case "/books":
+    case "/books/:title":
       res.writeHead(200, headers);
       res.write(books);
       break;
-    case "/authors":
+    case "/authors/:name":
       res.writeHead(200, headers);
       res.write(authors);
       break;
