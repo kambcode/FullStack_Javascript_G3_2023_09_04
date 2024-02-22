@@ -3,6 +3,10 @@ import express from "express";
 const app = express();
 const port = 3000;
 
+// /users/:id
+// /productos/categoria/cocina/:item
+// clientes/:id
+
 app.use(express.json()); //Middleware para convertir JSON's
 
 //route methods (get, post, put, delete)
