@@ -47,6 +47,19 @@ class UserModel {
       return user;
     }
   }
+
+  //Actividad CRUD (Create, Read, Update, Delete)
+
+  async getAllUser() {
+    const exitingData = await fs.readFile(this.filePath, "utf-8");
+    const existingUsers = JSON.parse(exitingData || "[]");
+
+    return existingUsers;
+  }
+
+  updateUser(userId, data) {}
+
+  delete(userId) {}
 }
 
 export default UserModel;
