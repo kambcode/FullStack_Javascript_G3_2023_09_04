@@ -35,9 +35,20 @@ class TodoModel {
     }
   }
 
-  //Actividad CRUD (Create, Read, Update, Delete)
+  async findTodo(todoId) {
+    const exitingData = await fs.readFile(this.filePath, "utf-8");
+    const existingTodos = JSON.parse(exitingData || "[]");
 
-  findTodo(userId, todoId) {}
+    const todo = existingTodos.find((todo) => todo.id === todoId);
+
+    if (todo) {
+      return todo;
+    } else {
+      return { error: "Todo does not exist" };
+    }
+  }
+
+  //Actividad CRUD (Create, Read, Update, Delete)
 
   updateTodo() {}
 

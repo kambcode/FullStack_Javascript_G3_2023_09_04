@@ -34,9 +34,17 @@ class TodoService {
     }
   }
 
-  //Actividad CRUD (Create, Read, Update, Delete)
+  async getTodo(req) {
+    const { todoId } = req.body;
+    if (todoId) {
+      const todo = await this.todoModel.findTodo(todoId);
+      return { statusCode: 200, todo };
+    } else {
+      return { statusCode: 400, message: "TodoId was not provided" };
+    }
+  }
 
-  getTodo() {}
+  //Actividad CRUD (Create, Read, Update, Delete)
 
   updateTodo() {}
 
