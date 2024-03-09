@@ -1,0 +1,11 @@
+SELECT * FROM users WHERE edad=15;
+SELECT user_id, name, edad FROM users WHERE edad <= 15;
+SELECT user_id, name, edad FROM users WHERE edad >= 15;
+SELECT user_id, name, edad FROM users WHERE name = "david";
+SELECT user_id, name, edad FROM users WHERE name != "david";
+SELECT user_id, name, edad FROM users WHERE name <> "david";
+SELECT user_id, name, edad FROM users WHERE edad BETWEEN 20 AND 33;
+SELECT user_id, name, edad, lastname FROM users WHERE lastname LIKE '%oya';
+SELECT user_id, name, edad, lastname FROM users WHERE lastname LIKE 'mon%';
+SELECT user_id, name, edad, lastname FROM users WHERE lastname IN ("saenz", "molina","montoya");
+SELECT user_id, name, edad, lastname FROM users WHERE (lastname = "saenz" OR lastname = "molina" OR lastname= "montoya");
