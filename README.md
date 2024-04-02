@@ -62,3 +62,15 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 23/02/2024 Express js https://youtu.be/ui3gyzAKHc8
 - 26/02/2024 Express Mini Proyecto: https://youtu.be/9vWDkx5pZF4
 - 27/02/2024 Express Mini Proyecto: https://youtu.be/X6Bt80qQ-wMv
+
+## Modulo 6 Bases de Datos
+
+- Clase 1 https://youtu.be/er0GlCov3MI
+- Clase 2 https://youtu.be/-mXTvO7Gjr4
+- Clase 3 https://youtu.be/lucsXThLrxA
+- Clase 4 https://youtu.be/8yuEDtKZ-uo
+- Clase 5 https://youtu.be/6oz37lTC6P0
+- Clase 6 https://youtu.be/dGmMwF6X3y8 
+- Clase 7 https://youtu.be/rDQLBDgy5xQ
+- Clase 8 https://youtu.be/hYAYwsChxz8
+- Clase 9 https://youtu.be/76Rcl9fq2Q4
